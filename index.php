@@ -1,9 +1,13 @@
+
 <?php
 /**
  * @package Ancient Chinese poetry-Backstage
  * @version 1.0.3
  */
 /*
+/**
+ * By Andy17269
+ */
 Plugin Name: Ancient Chinese poetry-Backstage
 Plugin URI: https://wenlei.club
 Description: 在您的Wordpress后台显示一句古诗词，让您感受到中国古诗的魅力！
